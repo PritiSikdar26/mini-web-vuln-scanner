@@ -243,8 +243,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@PritiSikdar26](https://github.com/PritiSikdar26)
+- LinkedIn: [Priti Sikdar](https://www.linkedin.com/in/priti-sikdar-744399239/)
 
 ---
 
