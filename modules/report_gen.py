@@ -31,7 +31,7 @@ class ReportGenerator:
 
         # Auto-generate filename if not provided
         if output_path is None:
-            safe_host = self.target.replace("http://", "").replace("https://", "").replace("/", "_")
+            safe_host = self.target.replace("http://", "").replace("https://", "").replace("/", "_").replace("?", "_").replace("=", "_").replace("&", "_").replace(":", "_").replace("*", "_").replace("|", "_").replace("<", "_").replace(">", "_").replace('"', "_")
             ts = datetime.now().strftime("%Y%m%d_%H%M%S")
             self.output_path = os.path.join("reports", f"scan_{safe_host}_{ts}.html")
         else:
