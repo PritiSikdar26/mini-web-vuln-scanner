@@ -1,0 +1,21 @@
+# Virtual Environment — never upload this
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reports (generated files)
+reports/
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
